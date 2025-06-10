@@ -1,17 +1,16 @@
-## Hi there 👋
+# 主要技术栈
+primary_skills = {
+    "编程语言": ["Python", "C++ (学习中)"],
+    "深度学习框架": ["PyTorch", "Hugging Face Transformers"],
+    "计算机视觉": ["OpenCV", "MMDetection", "YOLO系列"],
+    "工具链": ["Git", "Docker", "Jupyter", "Colab"]
+}
 
-<!--
-**Yanlewen/Yanlewen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlewen)
+# 学习路线图
+learning_path = [
+    "线性代数与概率论复习",
+    "深度学习基础（反向传播/优化器）",
+    "CV经典模型复现（ResNet/ViT）",
+    "LLM原理与微调实战",
+    "模型部署与优化"
+]
