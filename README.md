@@ -46,9 +46,9 @@
 - 🚀 **部署优化**：模型量化、ONNX推理加速  
 
 
-### 🌟 近期动态  
-- 🌱 正在复现 SAM 图像分割模型（PyTorch版）  
-- 📝 整理《李沐动手学深度学习》笔记（已完成CNN章节）  
+### 🌟 研究项目  
+- 🌱 基于半监督学习的多模态目标指代理解  
+- 📝 像素级少样本工业 PCB 板质检
 - 📊 学习使用 TensorRT 加速 YOLOv10 推理  
 
 
@@ -57,7 +57,7 @@
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="Yanlewen2020@163.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
