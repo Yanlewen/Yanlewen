@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Yanlewen  
-
+![Metrics](/github-metrics.svg)
 
 ### 👨‍💻 数据概览（分栏展示）  
 <table align="center">
   <tr>
     <td width="48%">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlewen&show_icons=true&theme=tokyonight&hide_border=true)
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlewen)
     </td>
     <td width="48%">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanlewen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanlewen)
     </td>
   </tr>
 </table>  
@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td width="48%">
-      ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yanlewen&theme=react-dark&hide_border=true)
+      ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yanlewen)
     </td>
     <td width="48%">
       ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yanlewen&left_color=green&right_color=red)
