@@ -1,39 +1,84 @@
-## Hi there 👋 I'm Yanlewen  
-
-### 🌐 关于我  
-AI领域学习者 | 专注大模型与计算机视觉探索  
-目前正在啃《深度学习》花书 + 复现经典CV模型 ✨  
-
-### 📊 数据看板（动态更新）  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlewen&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanlewen&layout=compact&theme=radical)  
-
-
-### 🧠 技能树（渐进式展示）  
-```mermaid
-graph TD
-    A[Python] --> B(数据分析)
-    A --> C(机器学习)
-    A --> D(深度学习)
-    D --> E[PyTorch]
-    D --> F[TensorFlow]
-    D --> G[Transformers]
-    C --> H[Scikit-learn]
-    B --> I[Pandas]
-    B --> J[NumPy]
-# 主要技术栈
+Hi there 👋 I'm Yanlewen
+🌐 关于我
+AI 领域学习者 | 专注大模型与计算机视觉探索目前正在啃《深度学习》花书 + 复现经典 CV 模型 ✨
+📊 数据看板（动态更新）
+**  
+🧠 技能树（渐进式展示）
+ 
+📚 正在学习的技术
+🤖 大模型：LLaMA 微调、LoRA 参数高效训练
+🏞️ 计算机视觉：YOLOv10 目标检测、MaskDINO 实例分割、SAM 图像分割
+🔥 研究项目（附技术亮点）
+1. 基于半监督学习的多模态目标指代理解
+核心挑战：解决图像识别模型在部件级别（part-level）理解能力不足的问题
+技术方案：引入轻量级 Querying Transformer，结合半监督学习提升语义对齐精度
+技术栈：PyTorch + Transformers + 多模态特征融合
+2. 像素级少样本工业 PCB 板质检
+应用场景：电子元件缺陷检测（焊点虚焊 / 线路短路）
+创新点：基于小样本学习的 PCB 缺陷定位算法，样本利用率提升 80%
+工具链：MMDetection + OpenCV + 自定义数据增强
+🛠️ 主要技术栈
+# 核心技术体系
 primary_skills = {
     "编程语言": ["Python", "C++ (学习中)"],
     "深度学习框架": ["PyTorch", "Hugging Face Transformers"],
-    "计算机视觉": ["OpenCV", "MMDetection", "YOLO系列"],
+    "计算机视觉": ["OpenCV", "MMDetection", "YOLO系列", "SAM", "MaskDINO"],
+    "大模型技术": ["LLaMA微调", "LoRA", "参数高效训练"],
     "工具链": ["Git", "Docker", "Jupyter", "Colab"]
 }
 
-# 学习路线图
+# 系统学习路线
 learning_path = [
     "线性代数与概率论复习",
     "深度学习基础（反向传播/优化器）",
     "CV经典模型复现（ResNet/ViT）",
-    "LLM原理与微调实战",
-    "模型部署与优化"
+    "李沐动手学深度学习笔记（已完成CNN模块）",
+    "LLM原理与LoRA微调实战",
+    "SAM/YOLOv10工程化部署",
+    "模型压缩与边缘计算优化"
 ]
+
+📫 联系方式
+  
+🌟 开源贡献计划
+📅 每周复现 1 个 CV/LLM 方向的 SOTA 模型代码
+🧰 维护《李沐深度学习笔记》开源仓库（含代码 + 解析）
+🌍 参与 Hugging Face 模型动物园的中文任务优化
+🎮 趣味动态数据
+**   
+🌈 动态视觉元素
+🔵 技术方向徽章墙
+🎨 动态背景（建议替换为个人图床链接）
+📈 学习进度追踪
+学习模块
+完成状态
+预计完成时间
+李沐深度学习笔记（CNN）
+🚀 已完成
+2025.06
+LLaMA 微调与 LoRA 实战
+🚧 进行中（40%）
+2025.07
+SAM 图像分割工程化应用
+📌 规划中
+2025.08
+工业 PCB 质检算法优化
+📍 调研阶段
+2025.09
+
+
+### 优化说明与使用建议  
+1. **动态数据更新**  
+   - 趣味数据中的`GitHub metrics`需替换为你的GitHub Token（在GitHub Settings→Developer settings→Personal tokens生成）  
+   - 学习进度表建议每周更新完成状态，保持内容鲜活  
+
+2. **技术展示逻辑**  
+   - 技能树新增大模型与CV细分方向，形成"基础→框架→领域"的技术链路  
+   - 项目描述突出"问题-方案-技术"结构，强化专业性（即使是学习项目也可按此逻辑包装）  
+
+3. **视觉层次优化**  
+   - 徽章墙使用主题色区分技术方向（紫色→大模型，粉色→CV，橙色→框架）  
+   - 进度表用`🚀/🚧/📌/📍`图标明确阶段状态，提升信息传达效率  
+
+建议将代码复制到GitHub的README.md中，若出现Mermaid图表显示问题，需在仓库Settings→Features中开启"Custom scripts and diagrams"功能。后续可随着学习进展持续更新项目进度，逐步完善技术栈展示。
+
