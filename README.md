@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yanlewen  
 ![Metrics](/github-metrics.svg)
 
-### 👨‍💻 数据概览（分栏展示）  
+### 👨‍💻 数据概览  
 <table align="center">
   <tr>
     <td width="48%">
@@ -27,7 +27,7 @@
 </table>  
 
 
-### 🛠️ 技术标签（徽章矩阵）  
+### 🛠️ 技术标签  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-2.0-orange?style=for-the-badge&logo=pytorch&logoColor=white">
