@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv10-purple?style=for-the-badge&logo=ultralytics&logoColor=white">
-  <img src="https://img.shields.io/badge/SAM-red?style=for-the-badge&logo=segment-anything-model&logoColor=white">
+  <img src="https://img.shields.io/badge/MASKDINO-red?style=for-the-badge&logo=segment-anything-model&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging%20Face-gray?style=for-the-badge&logo=huggingface&logoColor=white">
 </p>  
 
