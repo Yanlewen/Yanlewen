@@ -5,26 +5,22 @@
 <table align="center">
   <tr>
     <td width="48%">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlewen)
+      <img src="https://github-readme-stats.vercel.app/api?username=Yanlewen&show_icons=true&theme=default" />
     </td>
     <td width="48%">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanlewen)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanlewen&layout=compact" />
     </td>
   </tr>
-</table>  
+</table>
+ 
 
 
 ### 👣 动态活动追踪  
-<table align="center">
-  <tr>
-    <td width="48%">
-      ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yanlewen)
-    </td>
-    <td width="48%">
-      ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yanlewen&left_color=green&right_color=red)
-    </td>
-  </tr>
-</table>  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanlewen&theme=default" />
+</p>
+
+
 
 
 ### 🛠️ 技术标签  
@@ -58,6 +54,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="Yanlewen2020@163.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/163-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
